@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Serra\\Documents\\Visual Studio 2019\\Projects\\MvcCoreAzure\\MvcCoreAzure\\MvcCoreAzure.csproj",
-      "projectName": "MvcCoreAzure",
-      "projectPath": "C:\\Users\\Serra\\Documents\\Visual Studio 2019\\Projects\\MvcCoreAzure\\MvcCoreAzure\\MvcCoreAzure.csproj",
+      "projectUniqueName": "C:\\Users\\Serra\\Documents\\Visual Studio 2019\\Projects\\MvcCoreMariaDb\\MvcCoreMariaDb\\MvcCoreMariaDb.csproj",
+      "projectName": "MvcCoreMariaDb",
+      "projectPath": "C:\\Users\\Serra\\Documents\\Visual Studio 2019\\Projects\\MvcCoreMariaDb\\MvcCoreMariaDb\\MvcCoreMariaDb.csproj",
       "packagesPath": "C:\\Users\\Serra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Serra\\Documents\\Visual Studio 2019\\Projects\\MvcCoreAzure\\MvcCoreAzure\\obj\\",
+      "outputPath": "C:\\Users\\Serra\\Documents\\Visual Studio 2019\\Projects\\MvcCoreMariaDb\\MvcCoreMariaDb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
