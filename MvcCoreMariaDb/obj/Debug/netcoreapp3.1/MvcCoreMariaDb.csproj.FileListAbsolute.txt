@@ -8,7 +8,6 @@ C:\Users\Serra\Documents\Visual Studio 2019\Projects\MvcCoreMariaDb\MvcCoreMaria
 C:\Users\Serra\Documents\Visual Studio 2019\Projects\MvcCoreMariaDb\MvcCoreMariaDb\bin\Debug\netcoreapp3.1\MvcCoreMariaDb.pdb
 C:\Users\Serra\Documents\Visual Studio 2019\Projects\MvcCoreMariaDb\MvcCoreMariaDb\bin\Debug\netcoreapp3.1\MvcCoreMariaDb.Views.dll
 C:\Users\Serra\Documents\Visual Studio 2019\Projects\MvcCoreMariaDb\MvcCoreMariaDb\bin\Debug\netcoreapp3.1\MvcCoreMariaDb.Views.pdb
-C:\Users\Serra\Documents\Visual Studio 2019\Projects\MvcCoreMariaDb\MvcCoreMariaDb\obj\Debug\netcoreapp3.1\MvcCoreMariaDb.csprojAssemblyReference.cache
 C:\Users\Serra\Documents\Visual Studio 2019\Projects\MvcCoreMariaDb\MvcCoreMariaDb\obj\Debug\netcoreapp3.1\MvcCoreMariaDb.AssemblyInfoInputs.cache
 C:\Users\Serra\Documents\Visual Studio 2019\Projects\MvcCoreMariaDb\MvcCoreMariaDb\obj\Debug\netcoreapp3.1\MvcCoreMariaDb.AssemblyInfo.cs
 C:\Users\Serra\Documents\Visual Studio 2019\Projects\MvcCoreMariaDb\MvcCoreMariaDb\obj\Debug\netcoreapp3.1\MvcCoreMariaDb.csproj.CoreCompileInputs.cache
@@ -126,3 +125,4 @@ C:\Users\Serra\Documents\Visual Studio 2019\Projects\MvcCoreMariaDb\MvcCoreMaria
 C:\Users\Serra\Documents\Visual Studio 2019\Projects\MvcCoreMariaDb\MvcCoreMariaDb\bin\Debug\netcoreapp3.1\Humanizer.dll
 C:\Users\Serra\Documents\Visual Studio 2019\Projects\MvcCoreMariaDb\MvcCoreMariaDb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\Serra\Documents\Visual Studio 2019\Projects\MvcCoreMariaDb\MvcCoreMariaDb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Serra\Documents\Visual Studio 2019\Projects\MvcCoreMariaDb\MvcCoreMariaDb\obj\Debug\netcoreapp3.1\MvcCoreMariaDb.csprojAssemblyReference.cache

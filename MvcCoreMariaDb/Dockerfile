@@ -2,7 +2,9 @@
 WORKDIR /app
  
 # Copy csproj and restore as distinct layers
-COPY *.csproj ./
+# COPY *.csproj ./
+COPY *.sln ./
+COPY ./MvcCoreMariaDb/*.csproj ./MvcCoreMariaDb/
 RUN dotnet restore
  
 # Copy everything else and build

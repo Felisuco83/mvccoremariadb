@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "wWmco3oWrJ+CdEJRwUQlEBNpEq0FL55DUu7TZUK+rUiIWOpFhNazhbWLO+JHXDp0g87y7CsbPAbaLoxMj1sm2g==",
+  "dgSpecHash": "U9GrvDHlF71KLOygkorhGO2OaNUo9NlsL/4yFRHseHSepuS37AXfJAu1Kvst2Zie7iOkj7pxmHz23onLTGjuVw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Serra\\Documents\\Visual Studio 2019\\Projects\\MvcCoreMariaDb\\MvcCoreMariaDb\\MvcCoreMariaDb.csproj",
   "expectedPackageFiles": [
@@ -33,6 +33,7 @@
     "C:\\Users\\Serra\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "C:\\Users\\Serra\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
     "C:\\Users\\Serra\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Serra\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
     "C:\\Users\\Serra\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration\\3.1.5\\microsoft.visualstudio.web.codegeneration.3.1.5.nupkg.sha512",
     "C:\\Users\\Serra\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.contracts\\3.1.5\\microsoft.visualstudio.web.codegeneration.contracts.3.1.5.nupkg.sha512",
     "C:\\Users\\Serra\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.core\\3.1.5\\microsoft.visualstudio.web.codegeneration.core.3.1.5.nupkg.sha512",
