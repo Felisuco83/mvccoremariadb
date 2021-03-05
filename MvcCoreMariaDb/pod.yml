@@ -1,0 +1,13 @@
+﻿apiVersion: v1
+kind: Pod
+metadata:
+  name: mvccoremariadb
+  labels:
+    app: mvccoremariadb
+    component: netcore-app
+spec:
+  containers:
+    - image: registrycontainerdockertajamar.azurecr.io/mvccoremariadb
+      name: mvccoremariadb
+      ports:
+        - containerPort: 80
