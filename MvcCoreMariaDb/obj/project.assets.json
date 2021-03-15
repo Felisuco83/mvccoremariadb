@@ -6859,25 +6859,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Serra\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Users\\Teteman\\.nuget\\packages\\": {},
+    "F:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Serra\\Documents\\Visual Studio 2019\\Projects\\MvcCoreMariaDb\\MvcCoreMariaDb\\MvcCoreMariaDb.csproj",
+      "projectUniqueName": "C:\\Users\\Teteman\\Source\\Repos\\mvccoremariadb\\MvcCoreMariaDb\\MvcCoreMariaDb.csproj",
       "projectName": "MvcCoreMariaDb",
-      "projectPath": "C:\\Users\\Serra\\Documents\\Visual Studio 2019\\Projects\\MvcCoreMariaDb\\MvcCoreMariaDb\\MvcCoreMariaDb.csproj",
-      "packagesPath": "C:\\Users\\Serra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Serra\\Documents\\Visual Studio 2019\\Projects\\MvcCoreMariaDb\\MvcCoreMariaDb\\obj\\",
+      "projectPath": "C:\\Users\\Teteman\\Source\\Repos\\mvccoremariadb\\MvcCoreMariaDb\\MvcCoreMariaDb.csproj",
+      "packagesPath": "C:\\Users\\Teteman\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Teteman\\Source\\Repos\\mvccoremariadb\\MvcCoreMariaDb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "F:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Serra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Teteman\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
